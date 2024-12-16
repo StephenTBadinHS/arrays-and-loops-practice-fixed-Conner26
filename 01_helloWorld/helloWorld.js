@@ -1,5 +1,5 @@
-const helloWorld = function() {
-  return ''
-};
-
-console.log(helloWorld);
+function helloWorld(){
+  return "Hello World";
+}
+// Call the Function
+console.log(helloWorld());
